@@ -18,7 +18,7 @@ Stack:
 8. Run:
    npm install
    npm run dev
-9. Open http://localhost:3000
+9. Open https://smiling-pearl-dental-clinic.netlify.app
 
 The login form accepts a clinic username and password. It resolves the username to the email stored in `profiles`, then signs in with Supabase Auth.
 
